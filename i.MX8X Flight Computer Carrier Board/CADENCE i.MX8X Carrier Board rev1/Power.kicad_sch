@@ -4297,9 +4297,9 @@
 		)
 		(uuid "8445d53a-707d-4d9b-9129-b7b83fcb9fe5")
 	)
-	(text "2x 1210 Ceramic Caps"
+	(text "2x 1210 Ceramic Caps or \nTantalum Caps\n"
 		(exclude_from_sim no)
-		(at 139.954 43.942 0)
+		(at 141.732 40.894 0)
 		(effects
 			(font
 				(size 1.27 1.27)
