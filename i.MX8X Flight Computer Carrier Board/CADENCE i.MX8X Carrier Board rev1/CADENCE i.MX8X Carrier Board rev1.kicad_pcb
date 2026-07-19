@@ -14706,6 +14706,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C409642"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6c9ec90d-6126-422d-a1b4-880f5af21a9a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/0ffac7df-456d-44c0-8e9b-18d3eccc9366/d5332580-23cc-4ca3-b8cb-8a793577b5de")
 		(sheetname "/Power/")
@@ -39148,6 +39160,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C165948"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d450f96f-8cc8-4912-8ac2-b2d5980c5eb0")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -94694,6 +94718,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C3197723"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "20e4144a-2eba-4884-9a1d-cb32193ef5e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "USB*")
 		(path "/a0eee505-34ca-430d-9ae7-b91d33c9a3f8/b0a446e8-dc41-4a57-b746-8d628aed3592")
 		(sheetname "/USB OTG/")
@@ -113071,6 +113107,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C19191693"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "391b1cd8-e2e2-4ca0-88aa-f07b0b14653d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
@@ -135257,6 +135305,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C167220"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "dcf15998-99c3-4bd7-8a93-f88ee28b48b2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
