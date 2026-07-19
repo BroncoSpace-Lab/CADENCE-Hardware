@@ -2337,7 +2337,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprints:SW_1571983-4"
+		(property "Footprint" "Footprints:SW-SMD_8P-L11.3-W6.2-P1.27-LS8.2"
 			(at 142.24 45.72 0)
 			(effects
 				(font
@@ -2355,7 +2355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "4x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
+		(property "Description" "https://www.lcsc.com/product-detail/C266192.html?s_z=n_q_x_%2509%25201571983-4&spm=wm.ssy.em.0.tz&lcsc_vid=QgdeBFICFlVZAlBfRFdaXgZXQwdeUlMAQFgIBVJTQwUxVlNeQ1JbVldeR1RaXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 142.24 45.72 0)
 			(effects
 				(font
