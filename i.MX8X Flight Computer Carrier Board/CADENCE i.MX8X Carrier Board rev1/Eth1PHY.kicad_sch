@@ -12038,7 +12038,7 @@
 		(dnp no)
 		(uuid "8eb2929a-3efe-47fb-aebe-495c78940981")
 		(property "Reference" "R83"
-			(at 192.405 96.52 90)
+			(at 189.23 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
