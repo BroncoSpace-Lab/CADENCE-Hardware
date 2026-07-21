@@ -60006,10 +60006,11 @@
 				)
 			)
 		)
-		(fp_text user "*"
-			(at -1.0414 -2.5 0)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "4b3eea62-e50a-4b07-9db9-2480dc8bcb8e")
+			(uuid "4cb3e6bf-6380-4797-83b5-5b90812a706d")
 			(effects
 				(font
 					(size 1 1)
@@ -60017,11 +60018,10 @@
 				)
 			)
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(unlocked yes)
+		(fp_text user "*"
+			(at -1.0414 -2.5 0)
 			(layer "F.Fab")
-			(uuid "4cb3e6bf-6380-4797-83b5-5b90812a706d")
+			(uuid "cd1ca069-8299-47b4-83f1-a9a896f19b5e")
 			(effects
 				(font
 					(size 1 1)
@@ -60135,7 +60135,7 @@
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "f1df706d-77ca-44e2-8e79-f7d740b250ef")
+			(uuid "c5c4f66b-2e04-492e-ba2e-825f44bbf395")
 		)
 		(pad "12" smd rect
 			(at -0.25 2.9464)
@@ -136867,7 +136867,7 @@
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "5126487e-b93c-4103-a0f7-04c5bf767db9")
+			(uuid "930a24f3-c330-4f0a-8afc-53bf2643cf64")
 		)
 		(pad "12" smd rect
 			(at -0.25 -2.9564 270)
