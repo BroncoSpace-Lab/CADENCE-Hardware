@@ -63,7 +63,20 @@
           "width": 0.3076
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "starved_thermal|280110000|99112000|ca36dee5-c811-419d-a9c2-5e92bff37d82|3937ffca-2d01-4897-8ffc-0b401b5f3a7e|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|285110000|99112000|ca36dee5-c811-419d-a9c2-5e92bff37d82|54f8437f-5124-4a8f-a0e8-50cb9ea46b99|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|289610000|99112000|ca36dee5-c811-419d-a9c2-5e92bff37d82|f8c37a05-2b32-49bd-a3f2-5e6a757c23f8|F.Cu",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
