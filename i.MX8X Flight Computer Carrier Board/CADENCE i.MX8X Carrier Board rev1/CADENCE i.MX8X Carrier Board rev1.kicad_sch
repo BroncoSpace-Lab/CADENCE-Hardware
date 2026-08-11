@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "de284495-d382-47cb-b528-76e440980d40")
 	(paper "A4")
 	(title_block
@@ -22,7 +22,7 @@
 			(type color)
 			(color 255 255 255 1)
 		)
-		(uuid 1da0fc22-adbe-4bcf-ae7a-66990989144d)
+		(uuid "1da0fc22-adbe-4bcf-ae7a-66990989144d")
 	)
 	(rectangle
 		(start 73.66 101.6)
@@ -36,7 +36,7 @@
 			(type color)
 			(color 255 255 255 1)
 		)
-		(uuid 1ef70fb9-8dda-4840-b624-07a6dfecb6d5)
+		(uuid "1ef70fb9-8dda-4840-b624-07a6dfecb6d5")
 	)
 	(arc
 		(start 149.86 122.555)
@@ -50,7 +50,7 @@
 		(fill
 			(type none)
 		)
-		(uuid 21836670-e1a7-4407-b72f-002f90640518)
+		(uuid "21836670-e1a7-4407-b72f-002f90640518")
 	)
 	(rectangle
 		(start 88.9 69.85)
@@ -64,7 +64,7 @@
 			(type color)
 			(color 255 255 255 1)
 		)
-		(uuid 29137b59-36c3-4708-9392-a835030bcd25)
+		(uuid "29137b59-36c3-4708-9392-a835030bcd25")
 	)
 	(rectangle
 		(start 73.66 91.44)
@@ -78,7 +78,7 @@
 			(type color)
 			(color 255 255 255 1)
 		)
-		(uuid 3b01f952-cd8f-4513-8e14-34f0aa2318b0)
+		(uuid "3b01f952-cd8f-4513-8e14-34f0aa2318b0")
 	)
 	(rectangle
 		(start 73.66 134.62)
@@ -92,7 +92,7 @@
 			(type color)
 			(color 255 255 255 1)
 		)
-		(uuid 5b009a1a-79ed-4b64-86f8-e26b99bd8a24)
+		(uuid "5b009a1a-79ed-4b64-86f8-e26b99bd8a24")
 	)
 	(rectangle
 		(start 73.66 111.76)
@@ -106,7 +106,7 @@
 			(type color)
 			(color 255 255 255 1)
 		)
-		(uuid 84d7eb91-e72f-444d-bafa-76b710d10f73)
+		(uuid "84d7eb91-e72f-444d-bafa-76b710d10f73")
 	)
 	(rectangle
 		(start 73.66 73.66)
@@ -120,7 +120,7 @@
 			(type color)
 			(color 255 255 255 1)
 		)
-		(uuid 8f405aa2-136c-4306-aa81-a5d663b42ca4)
+		(uuid "8f405aa2-136c-4306-aa81-a5d663b42ca4")
 	)
 	(rectangle
 		(start 73.66 121.92)
@@ -134,7 +134,7 @@
 			(type color)
 			(color 255 255 255 1)
 		)
-		(uuid b4e8b335-563d-4bb3-a2b2-93a27de500ab)
+		(uuid "b4e8b335-563d-4bb3-a2b2-93a27de500ab")
 	)
 	(arc
 		(start 149.225 95.25)
@@ -148,7 +148,7 @@
 		(fill
 			(type none)
 		)
-		(uuid c77c2f13-e34e-41d7-9dba-315c7b78ced4)
+		(uuid "c77c2f13-e34e-41d7-9dba-315c7b78ced4")
 	)
 	(arc
 		(start 149.225 123.19)
@@ -162,7 +162,7 @@
 		(fill
 			(type none)
 		)
-		(uuid ce2676be-616b-446e-a96c-df1a666b1640)
+		(uuid "ce2676be-616b-446e-a96c-df1a666b1640")
 	)
 	(arc
 		(start 175.895 104.775)
@@ -176,7 +176,7 @@
 		(fill
 			(type none)
 		)
-		(uuid d4045e9f-a653-4689-bd56-9ee3d269ed3d)
+		(uuid "d4045e9f-a653-4689-bd56-9ee3d269ed3d")
 	)
 	(arc
 		(start 149.86 94.615)
@@ -190,7 +190,7 @@
 		(fill
 			(type none)
 		)
-		(uuid e68bb603-4048-429a-9383-d1121f8572a9)
+		(uuid "e68bb603-4048-429a-9383-d1121f8572a9")
 	)
 	(arc
 		(start 176.53 105.41)
@@ -204,7 +204,7 @@
 		(fill
 			(type none)
 		)
-		(uuid ecffbbd0-5b23-43a7-a4ff-35e74d8fd2e7)
+		(uuid "ecffbbd0-5b23-43a7-a4ff-35e74d8fd2e7")
 	)
 	(text "QSPI Flash,\nFlash"
 		(exclude_from_sim no)
@@ -103454,27 +103454,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 255 255 255 1.0000)
+			(color 255 255 255 1)
 		)
 		(uuid "089c604b-0863-4822-93dd-cc06ae04e525")
 		(property "Sheetname" "System Control"
 			(at 40.64 84.3784 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "Control.kicad_sch"
 			(at 40.64 93.2946 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -103498,27 +103502,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 235 159 156 1.0000)
+			(color 235 159 156 1)
 		)
 		(uuid "0ffac7df-456d-44c0-8e9b-18d3eccc9366")
 		(property "Sheetname" "Power"
 			(at 42.545 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "Power.kicad_sch"
 			(at 40.64 81.8646 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -103543,27 +103551,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 248 231 207 1.0000)
+			(color 248 231 207 1)
 		)
 		(uuid "149df53a-1b22-4ded-9d62-67ccb3056c8e")
 		(property "Sheetname" "FTDI"
 			(at 154.94 154.2284 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "FTDI.kicad_sch"
 			(at 154.94 163.1446 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -103588,27 +103600,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 251 242 208 1.0000)
+			(color 251 242 208 1)
 		)
 		(uuid "15f3f643-07bc-4c87-bc66-464abe3a5e1e")
 		(property "Sheetname" "Ethernet"
 			(at 17.78 133.9084 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "Ethernet.kicad_sch"
 			(at 17.78 149.1746 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -103633,27 +103649,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 251 242 208 1.0000)
+			(color 251 242 208 1)
 		)
 		(uuid "4aabc73f-db52-4a11-b1f9-4cf3f25794bd")
 		(property "Sheetname" "Eth1PHY"
 			(at 40.64 140.2584 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "Eth1PHY.kicad_sch"
 			(at 40.64 149.1746 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -103677,27 +103697,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 235 159 156 1.0000)
+			(color 235 159 156 1)
 		)
 		(uuid "59642966-a844-41dc-8ff0-cc80b38f7a57")
 		(property "Sheetname" "Watchdog"
 			(at 42.545 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "Watchdog.kicad_sch"
 			(at 40.64 72.9746 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -103722,27 +103746,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 222 232 250 1.0000)
+			(color 222 232 250 1)
 		)
 		(uuid "6ac74288-79da-48fa-81ee-e9f852887f43")
 		(property "Sheetname" "Peripherals"
 			(at 178.435 100.8884 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "Peripherals.kicad_sch"
 			(at 178.435 109.8046 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -103767,27 +103795,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 205 205 251 1.0000)
+			(color 205 205 251 1)
 		)
 		(uuid "711a63dc-df49-4577-a994-dfb9f7680289")
 		(property "Sheetname" "Flash"
 			(at 40.64 127.5584 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "Flash.kicad_sch"
 			(at 40.64 136.4746 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -103812,27 +103844,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 194 194 194 1.0000)
+			(color 194 194 194 1)
 		)
 		(uuid "912a7967-b8a7-4e29-8c0b-8042b13af5ba")
 		(property "Sheetname" "External Board Connections"
 			(at 154.94 130.0984 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "interboard connecters.kicad_sch"
 			(at 154.94 139.0146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -103857,27 +103893,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 194 194 194 1.0000)
+			(color 194 194 194 1)
 		)
 		(uuid "a0eee505-34ca-430d-9ae7-b91d33c9a3f8")
 		(property "Sheetname" "USB OTG"
 			(at 154.94 91.9984 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "USB_OTG.kicad_sch"
 			(at 154.94 100.9146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -103902,27 +103942,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 248 231 207 1.0000)
+			(color 248 231 207 1)
 		)
 		(uuid "c0bf5d3f-4cfb-4c0b-b448-903517df1d5a")
 		(property "Sheetname" "RS422"
 			(at 154.94 71.6784 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "RS422.kicad_sch"
 			(at 154.94 80.5946 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -103947,27 +103991,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 222 232 250 1.0000)
+			(color 222 232 250 1)
 		)
 		(uuid "c9abda44-b435-415f-87cb-f95498594e84")
 		(property "Sheetname" "I2C Buff"
 			(at 154.94 102.1584 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "I2CBuff.kicad_sch"
 			(at 154.94 111.0746 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -103992,27 +104040,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 248 231 207 1.0000)
+			(color 248 231 207 1)
 		)
 		(uuid "cf90c569-165f-4f06-938b-af613664cc34")
 		(property "Sheetname" "GPS"
 			(at 154.94 81.8384 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "GPS.kicad_sch"
 			(at 154.94 90.7546 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -104037,27 +104089,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 127 205 209 1.0000)
+			(color 127 205 209 1)
 		)
 		(uuid "f5f49c98-aaea-4f03-a1b3-a277d1d06600")
 		(property "Sheetname" "i.MX8X SOM Connectors"
 			(at 66.04 62.7884 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "imx8xsom.kicad_sch"
 			(at 66.04 172.0346 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances
@@ -104082,27 +104138,31 @@
 			(color 0 0 0 1)
 		)
 		(fill
-			(color 245 217 121 1.0000)
+			(color 245 217 121 1)
 		)
 		(uuid "fe211871-5da0-4bfc-9ad4-60fa16dbacc5")
 		(property "Sheetname" "uSD"
 			(at 40.64 150.4184 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Sheetfile" "uSD.kicad_sch"
 			(at 40.64 159.3346 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(instances

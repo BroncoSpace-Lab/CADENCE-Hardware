@@ -285,7 +285,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -977,6 +977,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -993,7 +1001,7 @@
       {
         "filename": "CADENCE i.MX8X Carrier Board rev1.kicad_sch",
         "name": "CADENCE i.MX8X Carrier Board rev1",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "de284495-d382-47cb-b528-76e440980d40"
       }
     ],
     "used_designators": "",
@@ -1002,7 +1010,7 @@
   "sheets": [
     [
       "de284495-d382-47cb-b528-76e440980d40",
-      "Root"
+      "CADENCE i.MX8X Carrier Board rev1"
     ],
     [
       "f5f49c98-aaea-4f03-a1b3-a277d1d06600",
