@@ -39810,7 +39810,7 @@
 				)
 			)
 		)
-		(property "Value" "LIS2MDL"
+		(property "Value" "IIS2MDCTR"
 			(at -2.433088 -0.3402 0)
 			(layer "F.Fab")
 			(uuid "b4e86a4f-6e84-4654-af0b-a3128791de85")
