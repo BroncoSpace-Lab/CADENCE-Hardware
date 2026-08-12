@@ -7928,7 +7928,7 @@
 				(justify left)
 			)
 		)
-		(property "Netclass" "DP_100R"
+		(property "Net Class" "DP_100R"
 			(at 210.82 56.8008 0)
 			(hide yes)
 			(show_name no)
@@ -8284,7 +8284,7 @@
 				(justify left)
 			)
 		)
-		(property "Netclass" "DP_100R"
+		(property "Net Class" "DP_100R"
 			(at 210.82 54.2608 0)
 			(hide yes)
 			(show_name no)

@@ -4824,7 +4824,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LIS2MDL"
+		(property "Value" "IIS2MDCTR"
 			(at 134.874 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)

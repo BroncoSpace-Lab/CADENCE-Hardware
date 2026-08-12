@@ -21156,7 +21156,7 @@
 			(justify left bottom)
 		)
 		(uuid "113e5270-cb29-4480-8d71-bc4167c120cb")
-		(property "Netclass" "DP_90R"
+		(property "Net Class" "DP_90R"
 			(at 253.238 47.244 0)
 			(hide yes)
 			(show_name no)
@@ -21299,7 +21299,7 @@
 			(justify left bottom)
 		)
 		(uuid "3e508eef-78f2-4079-b4b9-259ee4d16871")
-		(property "Netclass" "DP_90R"
+		(property "Net Class" "DP_90R"
 			(at 253.238 49.784 0)
 			(hide yes)
 			(show_name no)
