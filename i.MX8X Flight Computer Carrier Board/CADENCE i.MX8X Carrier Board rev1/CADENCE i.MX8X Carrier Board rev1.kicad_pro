@@ -938,6 +938,12 @@
           "label": "Price",
           "name": "Price",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
         }
       ],
       "filter_string": "",
