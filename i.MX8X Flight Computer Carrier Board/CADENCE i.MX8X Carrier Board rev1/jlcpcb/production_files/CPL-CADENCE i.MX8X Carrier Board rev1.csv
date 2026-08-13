@@ -162,7 +162,6 @@ H3,MountingHole,MountingHole_3.2mm_M3,383.032,-70.612,0,top
 H4,MountingHole,MountingHole_3.2mm_M3,382.524,-145.796,0,top
 H5,MountingHole,MountingHole_2.7mm_M2.5,262.53,-94.242,0,top
 H6,MountingHole,MountingHole_2.7mm_M2.5,306.53,-128.232,0,top
-J1,BTH-070-02-L-D-A,SAMTEC_BTH-070-02-L-D-A,285.134,-111.2255,0,top
 J2,USB_C_Receptacle_USB2.0_16P,USB-C_SMD-TYPE-C-31-M-12,293.17,-147.095,0,top
 J3,USB_A,SAMTEC_USB-A-S-X-X-TH,278.56,-145.8595,0,top
 J4,Conn_Coaxial,SMA-TH_132134,368.95,-71.725,90,top
