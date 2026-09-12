@@ -11388,7 +11388,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.coilcraft.com/en-us/products/power/shielded-inductors/molded-inductor/xal/xal60xx/xal6030-182/"
 			(at 113.03 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -12722,7 +12722,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://en.eeworld.com.cn/datasheet/new_part/FXL0630-4R7-M,cjiang,22596277.html"
 			(at 224.79 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -16848,7 +16848,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/AGL0000/AGL0000C59.pdf"
 			(at 124.46 45.72 0)
 			(hide yes)
 			(show_name no)
