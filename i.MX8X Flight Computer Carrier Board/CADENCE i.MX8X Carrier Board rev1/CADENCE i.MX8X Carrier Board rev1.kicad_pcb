@@ -98458,6 +98458,17 @@
 			(uuid "7fce35b3-efcd-40bd-becc-f3cdc2c54baf")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/3D step files/TPS22975DSGR.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Package_TO_SOT_SMD:SOT-23-6"
 		(layer "B.Cu")
@@ -110625,6 +110636,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/libraries/3D step files/SOT363.STEP"
+			(offset
+				(xyz 0.9 -2.4 2.6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -114413,6 +114435,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/libraries/3D step files/SOT363.STEP"
+			(offset
+				(xyz 1 -2.4 2.6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
